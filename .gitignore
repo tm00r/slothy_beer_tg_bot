@@ -1,0 +1,6 @@
+# Dir
+.vscode
+deploy
+
+# Files
+.env
